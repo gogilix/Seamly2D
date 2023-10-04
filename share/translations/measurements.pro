@@ -17,6 +17,7 @@ include(../../src/libs/vpatterndb/trmeasurements.pri)
 
 LANGUAGES += \
     ru_RU \
+    sr_SR \
     uk_UA \
     de_DE \
     cs_CZ \
